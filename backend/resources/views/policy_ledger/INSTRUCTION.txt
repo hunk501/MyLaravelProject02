@@ -1,0 +1,2 @@
+
+* Copy file "lists.blade.php" to Folder C:/xampp/htdocs/Compreline/backend/resources/views/policy_ledger/
